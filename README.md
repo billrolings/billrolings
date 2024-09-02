@@ -1,4 +1,4 @@
-# Slava - Sr. JavaScript Developer | MERN Stack
+# JavaScript Developer | MERN Stack
 
 ## Services Provided
 - Web Development
